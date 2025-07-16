@@ -1,3 +1,3 @@
-# pipx-install-sherlock-project
+# pipx-install-sherlock-project 
 auto-sherlock-project
-
+sherlock 
