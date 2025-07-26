@@ -1,3 +1,4 @@
 # pipx-install-sherlock-project 
 auto-sherlock-project
-sherlock 
+sherlock "cdenenny"
+
